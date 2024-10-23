@@ -1,10 +1,8 @@
 # TruthLens AI
 
-<<<<<<< HEAD
-![TruthLens AI Logo](D:\Truthlens-AI\public\Truthlens-AI.png)
 
-=======
->>>>>>> f174de6a5bee960e0ce535abda90da3a073585e4
+![TruthLens AI ](public\Truthlens-AI.png)
+
 TruthLens AI is an advanced image authentication platform that uses deep learning technology to detect AI-generated images with 99.9% accuracy. This repository contains both the frontend and backend code for the TruthLens AI application.
 
 ## Table of Contents
